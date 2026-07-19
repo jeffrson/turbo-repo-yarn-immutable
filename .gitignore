@@ -1,5 +1,7 @@
 node_modules/
 out/
+out-canary/
+out-canary2/
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
